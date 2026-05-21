@@ -11,4 +11,4 @@ print(f"{the_lowest['ism']} ({the_lowest['ball']})")
 players.remove(the_lowest)
 
 print("hi")
-      
+print("ehh")
