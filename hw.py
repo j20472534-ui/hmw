@@ -9,4 +9,6 @@ for i in top3:
 the_lowest=min(players,key=lambda x: x['ball'])
 print(f"{the_lowest['ism']} ({the_lowest['ball']})")
 players.remove(the_lowest)
+
+print("hi")
       
